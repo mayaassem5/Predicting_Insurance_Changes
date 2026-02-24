@@ -13,7 +13,7 @@ This solution helps:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset used is `insurance.csv`.
 
